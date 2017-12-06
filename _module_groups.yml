@@ -1,0 +1,5 @@
+training:
+  name: AEC Lab guide 
+  modules:
+    - part1
+    - part2
