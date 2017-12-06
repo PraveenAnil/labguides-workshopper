@@ -9,7 +9,7 @@ vars:
   USER_NAME: "(email)"
   USER_PASSWORD: "(email)"
   GIT_HOST: github
-  DOCS_URL: docs.openshift.org
+  DOCS_URL: docs.spektrasystems.com
 
 modules:
   activate:

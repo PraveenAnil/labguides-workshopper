@@ -1,5 +1,7 @@
 ## Lab: Part 1
 
-### Command Line Interface
+### Introduction
 
 This part contains some information about the lab and the details needed to finish the lab successfully. So this part will contain variables and such that must be downloaded from somewhere. I would need to figure that out, and then connect that to the documents. 
+
+Welcome {{ USER_NAME }}, and let's begin!
