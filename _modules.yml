@@ -1,0 +1,25 @@
+config:
+  vars:
+    - name: USER_NAME
+      desc: Username to login into console and oc
+      value: "dev"
+    - name: USER_PASSWORD
+      desc: Password to login
+      value: "dev"
+    - name: GIT_HOST
+      desc: The git host prefix
+      value: <url>
+    - name: DOCS_URL
+      desc: URL prefix to access docs (https://docs.spektrasystems.com/latest)
+      value: <url>
+      
+modules:
+  part1:
+    name: First part of the lab documentation
+    vars:
+      USER_NAME:
+  part2:
+    name: The second and more important part
+    vars:
+      GIT_HOST:
+      
