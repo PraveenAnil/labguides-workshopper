@@ -1,0 +1,8 @@
+## Lab: Part 2
+
+### The second module with a cool name
+
+This part will contain further information and more focussed data. Again, there will be variables used here that are specific to the user, so what was done in the first part should repeat here as well.
+
+A normal variable test follows: 
+{{ GIT_HOST }} is the git host
